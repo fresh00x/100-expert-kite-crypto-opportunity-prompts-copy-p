@@ -1,4 +1,4 @@
-# 100 Expert Kite Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work
+# 100-expert-kite-crypto-opportunity-prompts:-copy-paste-ai-co
 
 Unlock the full potential of Kite crypto opportunity with these battle-tested ChatGPT/ Claude prompts! As an AI power user, you'll be able to take advantage of every single opportunity available in th
 
@@ -6,7 +6,7 @@ Unlock the full potential of Kite crypto opportunity with these battle-tested Ch
 
 | Property | Value |
 |---|---|
-| Records | 5 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,14 +14,7 @@ Unlock the full potential of Kite crypto opportunity with these battle-tested Ch
 ## Sample
 
 ```json
-{
-  "name": "Basic Kite Crypto Prompts",
-  "prompts": [
-    "Identify potential profitable trades using Kite's analytics.",
-    "Analyze market trends with Kite and make informed decisions.",
-    "Stay up-to-date on the latest crypto news with Kite's real-time updates."
-  ]
-}
+Keys: title, description, price
 ```
 
 ## Usage
