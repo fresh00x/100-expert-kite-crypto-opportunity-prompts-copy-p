@@ -1,5 +1,42 @@
-{
-  "title": "100 Expert Kite Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work",
-  "description": "Unlock the full potential of Kite crypto opportunity with these battle-tested ChatGPT/ Claude prompts! As an AI power user, you'll be able to take advantage of every single opportunity available in the market. Don't miss out on profits — get your hands on our premium prompt pack today!",
-  "price": 7.0
-}
+[
+  {
+    "name": "Basic Kite Crypto Prompts",
+    "prompts": [
+      "Identify potential profitable trades using Kite's analytics.",
+      "Analyze market trends with Kite and make informed decisions.",
+      "Stay up-to-date on the latest crypto news with Kite's real-time updates."
+    ]
+  },
+  {
+    "name": "Advanced Kite Crypto Prompts",
+    "prompts": [
+      "Use Kite to predict price movements for popular cryptocurrencies.",
+      "Optimize your portfolio using Kite's AI-driven investment strategies.",
+      "Find undervalued coins and maximize returns with Kite's insights."
+    ]
+  },
+  {
+    "name": "In-Depth Kite Crypto Prompts",
+    "prompts": [
+      "Discover correlations between cryptocurrencies using Kite's data visualization tools.",
+      "Backtest investment strategies using historical market data from Kite.",
+      "Identify high-potential trading opportunities with Kite's comprehensive reports."
+    ]
+  },
+  {
+    "name": "Real-Life Applications of Kite Crypto Prompts",
+    "prompts": [
+      "Earn passive income by capitalizing on Kite's market analysis capabilities.",
+      "Use Kite to manage your crypto investments like a pro.",
+      "Make data-driven decisions with the help of Kite's AI-powered tools."
+    ]
+  },
+  {
+    "name": "Entrepreneurial Applications of Kite Crypto Prompts",
+    "prompts": [
+      "Launch a successful crypto investment fund using Kite's insights and recommendations.",
+      "Offer personalized financial advice to clients by leveraging Kite's AI technology.",
+      "Develop innovative trading bots powered by Kite's cutting-edge analytics."
+    ]
+  }
+]
